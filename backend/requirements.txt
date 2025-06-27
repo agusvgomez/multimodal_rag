@@ -1,0 +1,16 @@
+fastapi==0.110.0
+openai==1.91.0
+langchain-openai==0.3.25
+langchain==0.3.26
+uvicorn==0.20.0
+langchain_community==0.3.26
+pydantic==2.11.7
+python-multipart==0.0.9
+unstructured[all-docs]==0.17.2
+pillow==11.2.1
+lxml==5.4.0
+chromadb==1.0.13
+langchain-chroma==0.2.4
+langgraph==0.4.10
+langchain_experimental==0.3.4
+PyMuPDF==1.24.2
